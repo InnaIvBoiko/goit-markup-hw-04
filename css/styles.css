@@ -496,8 +496,8 @@ button:focus {
   fill: var(--color-cloud);
 }
 
-.social-link-link:hover,
-.social-link-link:focus {
+.social-link-list-footer .social-link-link:hover,
+.social-link-list-footer .social-link-link:focus {
   background-color: var(--color-green);
 }
 
